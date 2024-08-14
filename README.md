@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I am Hitesh khatri
+- 🌱 I’m currently in Class 10th
 
 <!--
 **Khatriplays/Khatriplays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
